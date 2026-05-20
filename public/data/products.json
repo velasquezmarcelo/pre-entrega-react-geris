@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sticker Logo",
+    "precio": 3000,
+    "stock": 20,
+    "imagen": "/data/sticker-logo.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Flyer Publicitario",
+    "precio": 3500,
+    "stock": 20,
+    "imagen": "/data/flyer.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Sticker Holograficos",
+    "precio": 4000,
+    "stock": 25,
+    "imagen": "/data/sticker-holograficos.jpeg"
+  },
+  {
+    "id": 4,
+    "nombre": "Photocard",
+    "precio": 15000,
+    "stock": 100,
+    "imagen": "/data/fotocards.jpeg"
+  },
+  {
+    "id": 5,
+    "nombre": "Fotos Polaroid",
+    "precio": 10000,
+    "stock": 150,
+    "imagen": "/data/polaroid.jpeg"
+  },
+  {
+    "id": 6,
+    "nombre": "Pack Etiquetas Personalizadas",
+    "precio": 20000,
+    "stock": 15,
+    "imagen": "/data/pack-etiquetas.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Stickers Argentinos",
+    "precio": 2500,
+    "stock": 50,
+    "imagen": "/data/sticker-argentinos.jpeg"
+  },
+  {
+    "id": 8,
+    "nombre": "Holograficos River Plate",
+    "precio": 4000,
+    "stock": 40,
+    "imagen": "/data/sticker-river.jpeg"
+  }
+]
